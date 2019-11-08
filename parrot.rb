@@ -1,5 +1,6 @@
-def parrot
-
+def parrot(str = "Squawk")
+  puts str
+  str
 end
 
 # Create method `parrot` that outputs a given phrase and
